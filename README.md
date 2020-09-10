@@ -4,7 +4,8 @@
 
 ## Screenshots
 <p align="center">
-  <img src=".github/dashboard.png" alt="Dashboard" width="460" height="300" />&nbsp;<img src=".github/cart.png" alt="Dashboard" width="460" height="300" />
+  <img src=".github/dashboard.png" alt="Dashboard" width="760" height="400" />
+  <img src=".github/cart.png" alt="Dashboard" width="760" height="400" />
 </p>
 
 
